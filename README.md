@@ -29,7 +29,25 @@ For this case study, I will focus on Bellabeat smart watch.
      calories burned and to find the sleeping schedule and patterns.
 
 2.2 Sorting the data
-  1. I used jupyter notebook to open the dataset and used panda framework to work with the data.
+  1. I used jupyter notebook to open the dataset and used panda framework to work with        the data. For this project I downloaded the CSV files in my laptop and loaded            them in Jupyter notebook.
 
+
+2.3 Data Credibility
+   1. As a general rule of thumb for a large enough sample condition, we need at-least 30
+      or greater sample size. Since we have 33 users we can get good insights in general.
+
+   2. In terms of recency, the data is within 10 years range so it's still reliable.
+   3. Additionally, the data collected also matches Bellabeat's product, hence the result
+      from this data can be applied to Bellabeat's products.
+
+3. Process
+
+   3.1 Loading Libraries:
+   First, I loaded the libraries (Pandas, numpy, seaborn, matplotlib, and datetime) for      processing and visualizing the data.
+
+   Then I loaded the datasets daily_activity.csv and sleepDaily.csv.
+
+   3.2 Data Exploration:
+   
 
      
